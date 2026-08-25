@@ -1,0 +1,10 @@
+# Local byproducts of running the bundled reference scripts.
+# The scripts themselves are shipped content — never ignore those.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/tmp/
+
+# OS and editor cruft
+.DS_Store
