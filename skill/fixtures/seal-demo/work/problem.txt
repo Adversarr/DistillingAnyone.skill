@@ -1,0 +1,1 @@
+Given the timings in this folder, report which stage dominates wall time.

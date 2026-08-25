@@ -1,0 +1,1 @@
+# extract_codex.py and extract_cursor.py use the Python standard library only.
