@@ -14,3 +14,7 @@ Name this skill and provide:
 - the path where the skill should live (required)
 
 Extractors are in `skill/scripts/` (`extract_codex.py`, `extract_cursor.py`). The run stops on all-tasks HIT, a 3-wave miss, or you.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
